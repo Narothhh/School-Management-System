@@ -1,12 +1,12 @@
 {
     "pages": {
         "home": "ទំព័រដើម",
-        "about": "About us",
-        "contact": "Contcat",
-        "product": "Products"
+        "about": "អំពី​ពួកយើង",
+        "contact": "ទាក់ទង",
+        "product": "ផលិតផល"
     },
     "currency": {
-        "kh": "Riel",
-        "en": "USD"
+        "kh": "រៀល",
+        "en": "ដុល្លារ"
     }
 }
